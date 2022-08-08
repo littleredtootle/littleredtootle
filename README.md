@@ -11,5 +11,5 @@
 - 🔭 I’m currently working on Shopify projects
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about Shopify Store setup
-- 📫 How to reach me: ...watch this space...
+- 📫 How to reach me: fill out the Contact form on my website: www. mjsolutions.dev
 
